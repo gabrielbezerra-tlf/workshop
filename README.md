@@ -1,4 +1,4 @@
-##Configurações do Prettier no VSCode
+# Configurações do Prettier no VSCode
 
 **Link da extensão:** https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode/
 
