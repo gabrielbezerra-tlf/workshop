@@ -1,5 +1,5 @@
 # Configurações do Prettier no VSCode
-[Link da extensão](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode/)
+[Link da extensão Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode/)
 
 Extensão para formatar automaticamente o código de forma consistente e legível
 
@@ -11,7 +11,7 @@ Extensão para formatar automaticamente o código de forma consistente e legíve
 5. Quando estiver criando os arquivos criar um chamado **.prettierrc** com as configurações dadas
 
 # Configurações do EditorConfig no VSCode
-[Link da extensão](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+[Link da extensão Editorconfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 Extensão para não gerar conflitos end of line, conflitos entre diferentes SOs 
 
